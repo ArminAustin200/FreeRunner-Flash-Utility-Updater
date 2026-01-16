@@ -1,6 +1,6 @@
 {
-  "revision": 1,
-  "zipUrl": "download link",
-  "md5": "MD5",
+  "revision": 2,
+  "zipUrl": "https://github.com/ArminAustin200/FreeRunner-Flash-Utility-Updater/releases/download/Pre-Realase/FreeRunner.Flashing.Utility.zip",
+  "md5": "f42b4c95e61f039f325f057465147d9f",
   "changelog": "This is a test update."
 }
