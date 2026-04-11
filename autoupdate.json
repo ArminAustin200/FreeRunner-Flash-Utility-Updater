@@ -1,6 +1,6 @@
 {
   "revision": 5,
-  "zipUrl": "https://github.com/ArminAustin200/FreeRunner/releases/download/Release/FreeRunner.Flashing.Utility.-.Release.V4.zip",
+  "zipUrl": "https://github.com/ArminAustin200/FreeRunner/releases/download/Release/FreeRunner.Flashing.Utility.-.Release.V5.zip",
   "md5": "c3140f948b12a4913f55ba392a7b5040",
   "changelog": "-HOTFIX: Fixed Changelog\n-Added Corona RGH1.2 Timings\n-Added Corona Windbond RGH1.2 Timings\n-Added ability to flash files outside of FreeRunner Flashing Utility\n-Added keybinds for opening external files and for closing the program\n-Added proper changelog integration"
 }
