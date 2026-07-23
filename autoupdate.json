@@ -1,6 +1,6 @@
 {
-  "revision": 5,
-  "zipUrl": "https://github.com/ArminAustin200/FreeRunner/releases/download/Release/FreeRunner.Flashing.Utility.-.Release.V5.zip",
-  "md5": "5c94a0d1134f8102c61e1c0085105e29",
-  "changelog": "- HOTFIX: Fixed Changelog Confirm Button not appearing\n- Compiled and added Dual slim timings\n- Compiled and added Triple slim timings\n- Compiled and added Quad slim timings"
+  "revision": 6,
+  "zipUrl": "https://github.com/ArminAustin200/FreeRunner/releases/download/Release/FreeRunner.Flashing.Utility.-.Release.V6.zip",
+  "md5": "5fe4723fefd40b22e178efe6a9c600bf",
+  "changelog": "- XDKBuild Timings finally added!\n- Added Dual NAND slim timings into FreeRunner Flashing Utility\n- Added Triple NAND slim timings into FreeRunner Flashing Utility\n- Added Quad NAND slim timings into FreeRunner Flashing Utility"
 }
