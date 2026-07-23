@@ -1,6 +1,6 @@
 {
   "revision": 6,
   "zipUrl": "https://github.com/ArminAustin200/FreeRunner/releases/download/Release/FreeRunner.Flashing.Utility.-.Release.V6.zip",
-  "md5": "5fe4723fefd40b22e178efe6a9c600bf",
+  "md5": "96f20c657c54c5e34e2463f1dd8b3f73",
   "changelog": "- XDKBuild Timings finally added!\n- Added Dual NAND slim timings into FreeRunner Flashing Utility\n- Added Triple NAND slim timings into FreeRunner Flashing Utility\n- Added Quad NAND slim timings into FreeRunner Flashing Utility"
 }
